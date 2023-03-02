@@ -13,3 +13,7 @@ No java existem oito tipos primitvos:
 
 ![img.png](img.png)
 
+## casting
+! não é muito recomendado, pela perda de dados
+transformando um long em int com o casting
+int age = (int) 2600000000L;

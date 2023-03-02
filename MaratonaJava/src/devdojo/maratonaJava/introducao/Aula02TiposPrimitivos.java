@@ -2,12 +2,12 @@ package devdojo.maratonaJava.introducao;
 
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
-        int age = 26;
-        long numeroGrande = 10000000;
+        int age = (int) 2600000000L;
+        long numeroGrande = 10000000L;
         double salarioDouble = 2000.0;
-        float salarioFloat = 2500;
+        float salarioFloat = 2500.0F;
         byte idadeByte = 40;
-        short idadeShort = 10;
+        short idadeShort = 32000;
         boolean verdadeiro = true;
         boolean falso = false;
         char caractere = 'M';
