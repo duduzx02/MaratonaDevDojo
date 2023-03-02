@@ -10,3 +10,6 @@ No java existem oito tipos primitvos:
 - short
 - long
 - boolean
+
+![img.png](img.png)
+
